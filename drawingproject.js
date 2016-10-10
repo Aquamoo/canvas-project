@@ -1,6 +1,7 @@
 var canvasDiv = document.getElementById("drawingArea");
 var canvas = canvasDiv.getContext('2d');
 
+
 //GREEN COLOR
 canvas.fillStyle = "LawnGreen";
 canvas.fillRect(350, 150, 30, 30);
